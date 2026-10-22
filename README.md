@@ -1,4 +1,4 @@
-# 📊 E-Commerce Retail & Consumer Behavior Analysis (Excel)
+# 📊 E-Commerce Retail & Consumer Behavior Analysis (Excel & Tableau)
 ## 🌐 Live Interactive Deployments
 * **🔗 Live Tableau Interactive Dashboard:** [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kira.barrios/viz/E-CommerceConsumerBehaviorRetailAnalyticsDashboard/Dashboard1?publish=yes)
 
