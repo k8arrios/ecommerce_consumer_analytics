@@ -37,7 +37,7 @@ By analyzing these datasets side-by-side, I uncovered critical purchasing behavi
 * **Recommendation:** Maintain the current website layout and user interface design since it proves universally accessible across generations, shifting UX engineering resources instead toward site speed or order fulfillment features.
 
 ### 4. High-Value Customer Profiles: Which demographic spends the most?
-* **Analysis:** Cross-references customer age brackets against the average revenue generated per transaction to locate the highest-value consumer base.
+* **Analysis:** Cross-referenced customer age brackets against the average revenue generated per transaction to locate the highest-value consumer base.
 * **Finding:** The 48–57 age bracket emerged as the highest-spending consumer demographic, yielding the peak Average Order Value (AOV) on the platform.
 * **Recommendation:** Allocate digital advertising budgets specifically toward the 48–57 age demographic, tailoring marketing campaigns around premium product bundles to maximize return on ad spend (ROAS).
 
