@@ -4,7 +4,11 @@
 
 
 ## 📌 Project Overview
-This project evaluates online sales performance, transaction logistics, and customer demographic satisfaction for an e-commerce platform. Using a dataset of online purchases, I built an interactive executive dashboard in Microsoft Excel to uncover purchasing patterns, track key performance indicators (KPIs), and deliver data-driven business recommendations aimed at maximizing platform profitability and consumer retention.
+## 📌 Project Overview
+This project evaluates online sales performance, transaction logistics, and customer demographic satisfaction for an e-commerce platform. Using a raw dataset of online purchases, I engineered a multi-stage analytics pipeline across two distinct environments: building a centralized, spreadsheet-driven visual grid in **Microsoft Excel** and scaling those operational metrics into an interactive, cloud-hosted **Tableau Public** dashboard. 
+
+By analyzing these datasets side-by-side, I uncovered critical purchasing behaviors, tracked core key performance indicators (KPIs), and delivered data-driven business recommendations aimed at maximizing platform profitability and consumer retention.
+
 
 ---
 
@@ -29,7 +33,7 @@ This project evaluates online sales performance, transaction logistics, and cust
 * **Recommendation:** Introduce targeted incentives, such as a 5% discount or loyalty points for cardholders, to encourage Cash on Delivery users to transition to digital credit payments, maximizing transaction profitability.
 
 ### 3. Demographic Satisfaction: Does user experience vary by age?
-* **Analysis:** Utilized Excel's numeric grouping feature to segment customers into distinct generational brackets (`20-29`, `30-39`, etc.) and calculated the average review score for each.
+* **Analysis:** Segmented customers into distinct generational brackets (`18-27`, `28-37`, `38-47`, `48-57`, `58+`) and calculated the average review score for each group to isolate variances in user satisfaction.
 * **Finding:** Customer satisfaction remained universally stable, maintaining a steady overall platform average rating of 4.0 out of 5 across all age groups.
 * **Recommendation:** Maintain the current website layout and user interface design since it proves universally accessible across generations, shifting UX engineering resources instead toward site speed or order fulfillment features.
 
