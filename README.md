@@ -9,8 +9,10 @@ This project evaluates online sales performance, transaction logistics, and cust
 ---
 
 ## 🛠️ Tech Stack & Features Used
-* **Tool:** Microsoft Excel (Desktop App for Mac)
-* **Features:** Advanced Pivot Tables, Value Field Aggregations, Data Visualizations (Clustered Column Charts), Data Grouping, and Multi-Table Interactive Slicers.
+* **Business Intelligence Tools:** Microsoft Excel (Desktop App for Mac) & Tableau Public (Cloud Hosting)
+* **Excel Capabilities:** Advanced Pivot Tables, Value Field Aggregations, Data Visualizations (Clustered Column Charts), Custom Data Grouping, and Multi-Table Interactive Slicers.
+* **Tableau Capabilities:** Calculated Fields (`Total Revenue` multiplication metrics), Custom Bins/Generational Grouping, Dual-Axis Aggregations (AOV Trend Lines vs. Transaction Volume), and Interactive Cross-Filtering Dashboard Engine.
+
 
 ---
 
@@ -38,8 +40,14 @@ This project evaluates online sales performance, transaction logistics, and cust
 
 ---
 
-## 🎛️ Interactive Dashboard Elements
-The finalized spreadsheet features a centralized analytics grid. I integrated a dynamic **Gender Slicer** connected via cross-report connections, allowing stakeholders to filter product revenue, payment choices, consumer satisfaction, and high-value demographic spending profiles simultaneously by consumer gender. 
+## 🎛️ Interactive Dashboard Interfaces
+
+### Microsoft Excel (Local Deployment)
+Features a centralized business analytics grid driven by a dynamic **Gender Slicer**. I engineered cross-report table connections, allowing stakeholders to isolate product performance, transactional logistics, consumer satisfaction, and high-value spending metrics simultaneously by targeted customer gender.
+
+### Tableau Public (Cloud Deployment)
+Features an advanced **2x2 Cross-Filtering Dashboard Engine**. Instead of relying on floating menu boxes, I activated comprehensive action filters on all four core worksheets. Selecting any specific data block—such as the Electronics bar or the 48-57 generational tier—instantly triggers real-time visual animations and cross-report recalibrations across the entire layout.
+ 
 
 ---
 
@@ -49,6 +57,13 @@ The finalized spreadsheet features a centralized analytics grid. I integrated a 
 
 ---
 
-## 📂 How to View the Project
-1. Download the `Ecommerce_sales_analysis.xlsx` file from this repository.
-2. Open the file in desktop Microsoft Excel to interact with the slicers and live data charts.
+## 📁 How to View the Project
+
+### Option 1: Live Cloud Deployment
+1. Scroll to the top of this page and click the **Live Tableau Interactive Dashboard** hyperlink under the deployments section.
+2. Interact with the live visualizations, charts, and cross-report funnel filters directly inside your web browser.
+
+### Option 2: Local Excel Desktop App
+1. Download the `Ecommerce_sales_analysis.xlsx` file from this repository workspace.
+2. Open the file natively inside desktop Microsoft Excel to access the centralized analytics grid and dynamic Gender Slicers.
+
