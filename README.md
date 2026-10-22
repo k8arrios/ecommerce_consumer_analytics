@@ -1,4 +1,7 @@
 # 📊 E-Commerce Retail & Consumer Behavior Analysis (Excel)
+## 🌐 Live Interactive Deployments
+* **🔗 Live Tableau Interactive Dashboard:** [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kira.barrios/viz/E-CommerceConsumerBehaviorRetailAnalyticsDashboard/Dashboard1?publish=yes)
+
 
 ## 📌 Project Overview
 This project evaluates online sales performance, transaction logistics, and customer demographic satisfaction for an e-commerce platform. Using a dataset of online purchases, I built an interactive executive dashboard in Microsoft Excel to uncover purchasing patterns, track key performance indicators (KPIs), and deliver data-driven business recommendations aimed at maximizing platform profitability and consumer retention.
