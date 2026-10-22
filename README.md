@@ -4,7 +4,6 @@
 
 
 ## 📌 Project Overview
-## 📌 Project Overview
 This project evaluates online sales performance, transaction logistics, and customer demographic satisfaction for an e-commerce platform. Using a raw dataset of online purchases, I engineered a multi-stage analytics pipeline across two distinct environments: building a centralized, spreadsheet-driven visual grid in **Microsoft Excel** and scaling those operational metrics into an interactive, cloud-hosted **Tableau Public** dashboard. 
 
 By analyzing these datasets side-by-side, I uncovered critical purchasing behaviors, tracked core key performance indicators (KPIs), and delivered data-driven business recommendations aimed at maximizing platform profitability and consumer retention.
